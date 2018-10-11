@@ -86,3 +86,5 @@ sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml
+
+plugins: hexo-generate-feed
