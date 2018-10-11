@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Laziji 的博客
-subtitle: System.out.println("hello");
-description: Laziji 的博客
+title: ☻Blog("Laziji")
+subtitle: System.out.print("辣子鸡的博客");
+description: 自由博客
 keywords: 编程,计算机,java,python,go,c++
 author: Laziji
 language: zh-Hans
