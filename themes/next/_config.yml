@@ -126,14 +126,15 @@ scheme: Pisces
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-#social:
-  #GitHub: https://github.com/yourname || github
+social:
+  GitHub: https://github.com/GitHub-Laziji || github
+  Segmentfault: https://segmentfault.com/u/laziji || smile-o
   #E-Mail: mailto:yourname@gmail.com || envelope
-  #Google: https://plus.google.com/yourname || google
+  Google: https://plus.google.com/116868698372037654092 || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
-  #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
+  StackOverflow: https://stackoverflow.com/users/9728311/laziji || stack-overflow
   #YouTube: https://youtube.com/yourname || youtube
   #Instagram: https://instagram.com/yourname || instagram
   #Skype: skype:yourname?call|chat || skype
@@ -216,7 +217,7 @@ excerpt_description: true
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
 
 # Post meta display settings
@@ -531,9 +532,9 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: Bo44vHqiWndt92zbctI4m0Vm-gzGzoHsz
+  app_key: udTUxK5DMrfwdS8MErDQC8X7
 
 # Another tool to show number of visitors to each article.
 # visit https://console.firebase.google.com/u/0/ to get apiKey and projectId
