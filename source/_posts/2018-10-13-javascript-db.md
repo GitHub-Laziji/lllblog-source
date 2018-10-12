@@ -9,14 +9,15 @@ tags: JavaScript
 
 当然在JavaScript中实现这个需求方法很多, 这里讲述的是如何在`ECMAScript 6`中用类似Java中的泛型, 继承来解决
 
-# AppApi.js
-最后使用如下 十分的OO
+最后使用如下
 ```JavaScript
 import AppApi from "./AppApi"
 
 AppApi.list()
 ```
 
+# AppApi.js
+Api类如下 十分的OO
 ```JavaScript
 import BaseApi from "./BaseDBApi"
 
