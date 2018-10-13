@@ -1,6 +1,7 @@
 ---
 title: JavaScript实现类似Java的泛型
 date: 2018-10-13 02:04:07
+categories: 技术分享
 tags: JavaScript
 ---
 
