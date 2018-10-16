@@ -1,5 +1,5 @@
 ---
-title: Java中静态成员变量的加载
+title: Java中静态成员变量的内部调用
 date: 2018-10-16 13:43:15
 categories: 技术分享
 tags: Java
