@@ -334,6 +334,14 @@
     {### END POST BODY ###}
     {#####################}
 
+    {% if theme.wechat_blog and not is_index %}
+      <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
+        <div><i class="fa fa-wechat"></i>&nbsp;欢迎关注我的博客公众号</div>
+        <img src="{{ theme.wechat_blog }}" style="width: 180px;max-width: 100%;display: inline-block;"/>
+      </div>
+    {% endif %}
+
+
     {% if theme.wechat_subscriber.enabled and not is_index %}
       <div>
         {% include 'wechat-subscriber.swig' %}

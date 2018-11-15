@@ -248,6 +248,9 @@ wechatpay: /images/wechatpay.png
 alipay: /images/alipay.png
 #bitcoin: /images/bitcoin.png
 
+# Wechat Blog
+wechat_blog: /images/wechat_blog.png
+
 # Declare license on posts
 post_copyright:
   enable: false
